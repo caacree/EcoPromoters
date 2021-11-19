@@ -15,11 +15,12 @@ main:
     weight: 50
   - name: Resources
     url: '/resources'
-    weight: 50
-  - name: Github
+    weight: 60
+  - identifier: github
+    name: ''
     url: https://github.com/KosuriLab/ecoli_promoter_mpra
-    pre: <i class='fa fa-heart'></i>
-    weight: 50
+    pre: <i class='fa fa-github'></i>
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
