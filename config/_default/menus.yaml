@@ -19,8 +19,9 @@ main:
   - identifier: github
     name: ''
     url: https://github.com/KosuriLab/ecoli_promoter_mpra
-    pre: <i class='fa fa-github'></i>
+    pre: <i class='fab fa-github'></i>
     weight: 70
+    align: r
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
