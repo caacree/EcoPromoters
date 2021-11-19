@@ -10,7 +10,7 @@ main:
   - name: About
     url: '/about'
     weight: 40
-  - name: Data Tables
+  - name: 'Data Tables'
     url: '/tables'
     weight: 50
   - name: Resources
