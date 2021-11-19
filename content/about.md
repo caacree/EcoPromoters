@@ -10,6 +10,8 @@ type = "page"
 weight = 111
 +++
 
+![PromoterDB Logo](/logos/pdb_v1@4x-8.png)
+
 This resource presents promoter activities and characteristics of 1076 *Escherichia coli* operons as measured using a multiplexed reporter assay. Briefly, we have measured the promoter activity of over 300,000 genomic DNA fragments spanning the entire *E. coli* genome and report our measurements after summarizing promoter activity to single-nucleotide resolution. In addition, we performed a scanning mutagenesis of 2,057 previously reported promoters in order to identify regulatory regions that control the expression of these sequences. The following page provides summary reports of these findings for 1076 *E. coli* operons. 
 
 ### Manuscript
