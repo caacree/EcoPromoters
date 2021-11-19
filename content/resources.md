@@ -4,7 +4,6 @@ date = "2020-06-28T22:17:00+00:00"
 draft = false
 noauthor = true
 share = false
-title = "Resources"
 type = "page"
 [menu.main]
 weight = 111
