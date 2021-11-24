@@ -23,7 +23,7 @@
     $("#operon-selector").on('select2:select', function(e) {
       var selected = e.params.data
       var file_location = `/prom_pdfs/${selected.id}.pdf`
-      $("#select-operon-result").html(`<embed src=${file_location}#toolbar=0&navpanes=0&scrollbar=0 width="100%" height="100%" />`).css("height", "2150px")
+      $("#select-operon-result").html(`<embed src=${file_location}#toolbar=0&navpanes=0&scrollbar=0 width="100%" height="100%" />`)
     })
   </script>
 {{ end }}
