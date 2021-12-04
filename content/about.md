@@ -27,4 +27,4 @@ Please refer all questions to Guillaume Urtecho (Twitter: [@GoGurtecho](https://
 ### Code availability
 
 Code used for the manuscript can be accessed at: https://github.com/KosuriLab/ecoli_promoter_mpra
-Code used for the website can be accessed at: https://github.com/KosuriLab/XXXXXXXX
+Code used for the website can be accessed at: https://github.com/ecopromotersite/EcoPromoters
